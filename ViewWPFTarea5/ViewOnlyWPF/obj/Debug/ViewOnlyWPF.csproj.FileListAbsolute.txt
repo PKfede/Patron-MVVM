@@ -1,0 +1,14 @@
+C:\Users\FEDERICO DIAZ\source\repos\ViewOnlyWPF\ViewOnlyWPF\bin\Debug\ViewOnlyWPF.exe.config
+C:\Users\FEDERICO DIAZ\source\repos\ViewOnlyWPF\ViewOnlyWPF\bin\Debug\ViewOnlyWPF.exe
+C:\Users\FEDERICO DIAZ\source\repos\ViewOnlyWPF\ViewOnlyWPF\bin\Debug\ViewOnlyWPF.pdb
+C:\Users\FEDERICO DIAZ\source\repos\ViewOnlyWPF\ViewOnlyWPF\obj\Debug\App.g.cs
+C:\Users\FEDERICO DIAZ\source\repos\ViewOnlyWPF\ViewOnlyWPF\obj\Debug\ViewOnlyWPF_MarkupCompile.cache
+C:\Users\FEDERICO DIAZ\source\repos\ViewOnlyWPF\ViewOnlyWPF\obj\Debug\ViewOnlyWPF_MarkupCompile.lref
+C:\Users\FEDERICO DIAZ\source\repos\ViewOnlyWPF\ViewOnlyWPF\obj\Debug\ViewOnlyWPF.g.resources
+C:\Users\FEDERICO DIAZ\source\repos\ViewOnlyWPF\ViewOnlyWPF\obj\Debug\ViewOnlyWPF.Properties.Resources.resources
+C:\Users\FEDERICO DIAZ\source\repos\ViewOnlyWPF\ViewOnlyWPF\obj\Debug\ViewOnlyWPF.csproj.GenerateResource.cache
+C:\Users\FEDERICO DIAZ\source\repos\ViewOnlyWPF\ViewOnlyWPF\obj\Debug\ViewOnlyWPF.csproj.CoreCompileInputs.cache
+C:\Users\FEDERICO DIAZ\source\repos\ViewOnlyWPF\ViewOnlyWPF\obj\Debug\ViewOnlyWPF.exe
+C:\Users\FEDERICO DIAZ\source\repos\ViewOnlyWPF\ViewOnlyWPF\obj\Debug\ViewOnlyWPF.pdb
+C:\Users\FEDERICO DIAZ\source\repos\ViewOnlyWPF\ViewOnlyWPF\obj\Debug\Views\Window1.g.cs
+C:\Users\FEDERICO DIAZ\source\repos\ViewOnlyWPF\ViewOnlyWPF\obj\Debug\Views\Window1.baml
